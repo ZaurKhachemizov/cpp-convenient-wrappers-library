@@ -1,0 +1,6 @@
+SomeClass::ptr_listener
+some_listener
+SomeClass::shared_listener
+
+SomeClass::ptr_listener
+some_listener

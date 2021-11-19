@@ -1,0 +1,5 @@
+C++ convenient wrappers library license; Version 1.0; July 22th, 2014.
+
+This library (the "Library") is free of charge. Permission is granted to use, distribute, and prepare derivative works on the Library.
+This license must be included in all copies of the Library and all derivative works of the Library if they are distributed as a source code.
+The Library is provided without any kind of warranty. The copyright holders shall not be liable for any circumstances arising from the use of the Library.
